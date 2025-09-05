@@ -2,10 +2,10 @@ Title: Parcours scolaire
 
 # Présentation de mon parcours scolaire
 
-Après un bac **Général** avec comme spécialités : *Maths* & *Physique Chimie*
-> Maman
+Après un bac **Général** avec comme spécialités : *Maths* & *Physique Chimie*. J'ai réalisé un BUT Informatique (*1 an*), mais n'ayant pas validé mon année je me suis ré-orientée en BTS SIO option SLAM !
 
 
+>  Ceci est une citation
 
 **1. BTS SIO** (**S**ervices **I**nformatiques aux **O**rganisations)
 
@@ -16,13 +16,6 @@ Après un bac **Général** avec comme spécialités : *Maths* & *Physique Chimi
 
 - **<u>Durée :</u>** 2 ans.
 - **<u>Débouchés :</u>** emploi direct (technicien support, admin systèmes/réseaux, développeur junior) ou poursuite d’études (Bachelor, BUT, Licence).
-
-
-**2. BTS CIEL** (**C**ybersécurité, **I**nformatique et réseaux, **É**lectronique) : Nouvelle filière (remplace une partie du **BTS SN**).
-
-Orienté systèmes numériques, réseaux, électronique et cybersécurité.
-
-- **<u>Débouchés :</u>** technicien réseaux, support, sécurité. Possible poursuite en Bachelor cybersécurité ou BUT.
 
 
 **3. BUT Informatique** (ex-DUT) :

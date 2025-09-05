@@ -5,7 +5,7 @@ Title: TP majeurs
 
 ## Première année de BTS SIO :
 - TP Geoworld
-- xoxo
+- Création d'un portfolio avec une autre technologie
 
 
 ## Seconde année de BTS SIO :
