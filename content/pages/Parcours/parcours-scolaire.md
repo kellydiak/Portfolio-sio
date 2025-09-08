@@ -5,7 +5,10 @@ Title: Parcours scolaire
 Après un bac **Général** avec comme spécialités : *Maths* & *Physique Chimie*. J'ai réalisé un BUT Informatique (*1 an*), mais n'ayant pas validé mon année je me suis ré-orientée en BTS SIO option SLAM !
 
 
->  Ceci est une citation
+>Ceci est une citation
+
+---
+
 
 **1. BTS SIO** (**S**ervices **I**nformatiques aux **O**rganisations)
 
