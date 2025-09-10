@@ -15,9 +15,9 @@ from datetime import datetime
 # ----------------------------------------
 # Cette section contient les variables générales associé au site/portefolio.
 
-SITENAME = 'Portfolio BTS SIO SLAM'
+SITENAME = 'mon portfolio'
 SITESUBTITLE = "(déroulez pour en savoir plus. .)"
-AUTHOR = 'John DOE'
+AUTHOR = 'Kellyane DIAKUMPUNA'
 SITEURL = "" # Est surchargé par l'url du serveur dans le fichier publishconf.py
 TIMEZONE = 'Europe/Rome'
 DEFAULT_LANG = 'fr'
@@ -61,7 +61,7 @@ PAGE_SAVE_AS = 'pages/{slug}.html'
 
 # ((nom, url, icone, (nom, url, icone),description, couleur)...)
 MENUITEMS = (
-    ("Accueil", "/", "house", None, "Page d'accueil du portefolio", None),
+    ("Accueil", "/", "house", None, "Retour à l'acceuil", None),
 
     ("Mon parcours", "/pages/parcours", "mortarboard",
         (
