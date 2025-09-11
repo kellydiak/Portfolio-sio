@@ -27,7 +27,7 @@ ______________________________________________
     --nav-link: white;
     --nav-link-active: rgb(255, 209, 5);
 
-
+    /* --bs-dark-rgb: 247, 4, 234;*/
     /* Redéfinition des couleurs de Bootstrap :*/
     /* --bs-warning: rgb(255, 166,  0);
     --bs-warning-rgb: 255, 166, 0;
@@ -129,3 +129,9 @@ Couleur des éléments de navigations :
 .navbar-toggler {
     background-color: rgba(255, 255, 255, 1);
 }
+
+
+/*
+.maClassBg {
+    background-color: rgb(95, 226, 43);
+}*/
