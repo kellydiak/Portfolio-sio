@@ -61,9 +61,9 @@ PAGE_SAVE_AS = 'pages/{slug}.html'
 
 # ((nom, url, icone, (nom, url, icone),description, couleur)...)
 MENUITEMS = (
-    ("Accueil", "/", "house", None, "Retour à l'acceuil", None),
+    ("Accueil", "/", "house-heart-fill", None, "Retour à l'acceuil", None),
 
-    ("Mon parcours", "/pages/parcours", "mortarboard",
+    ("Mon parcours", "/pages/parcours", "journal-code",
         (
             ("Parcours scolaire", "/pages/parcours-scolaire"),
             ("Le BTS SIO", "/pages/bts-sio")
@@ -71,19 +71,19 @@ MENUITEMS = (
         "Découvrez mon parcours scolaire et professionnel.", "primary"
     ),
 
-    ("Réalisations", "/pages/realisations", "check2-square",
+    ("Réalisations", "/pages/realisations", "person-workspace",
         (
             ("TP majeurs", "/pages/tp-majeurs"),
             ("Stage de 1ère année", "/pages/stage-sio1"),
             ("Stage de 2e année", "/pages/stage-sio2"),
             ("Projets scolaires", "/pages/projets-scolaires"),
-            ("Projets personnels", "/pages/projets-personnels"),                             # Optionnel
-            ("Certifications complémentaires", "/pages/certifications-complementaires") # Optionnel
+            ("Projets personnels", "/pages/projets-personnels")
+
         ),
         "Accédez aux projets et TP réalisés pendant ma formation et à mes projets personnels.", "success"
      ),
 
-    ("Veille techno.", "/ma-veille", "broadcast-pin",
+    ("Veille techno.", "/ma-veille", "globe2",
         (
         ("Ma veille technologique", "/ma-veille"),
         ("Archive des articles", "/archives"),
@@ -92,9 +92,7 @@ MENUITEMS = (
         ("Liste des mots clés", "/tags")
         ),
         "Consultez les articles de veille technologique que j’ai suivis durant cette année.", "warning"
-    ),
-
-    ("Engagement", "/pages/engagement-etudiant", "people-fill", None, "Présention de mon engagement étudiant.", None),    # Optionnel
+    ) 
 
 )
 
