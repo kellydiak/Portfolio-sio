@@ -3,7 +3,7 @@ Title: BTS SIO
 # 🎓 BTS SIO – Services Informatiques aux Organisations
 
 Le **BTS SIO** est un diplôme national de niveau **BAC +2** orienté vers les métiers de l’informatique.  
-Il forme des techniciens capables d’installer, de configurer, de maintenir des infrastructures informatiques ou de développer des applications répondant aux besoins des organisations.
+Il forme des techniciens polyvalents capables <u>d’installer</u>, de <u>configurer</u>, de <u>maintenir des infrastructures informatiques</u> ou de <u>développer des applications</u> répondant aux besoins des organisations.
 
 ---
 
@@ -16,6 +16,7 @@ Il forme des techniciens capables d’installer, de configurer, de maintenir des
 ---
 
 ## 🔀 Les deux options du BTS SIO
+Les options permettent de nous spécialiser d'avantage sur ce qu'on aime. Au premier semestre tout le monde a autant d'heures en **SISR** qu'en **SLAM**.
 
 ### 1. Option **SISR** (Solutions d’Infrastructure, Systèmes et Réseaux)
 Cette option forme à la gestion des systèmes informatiques et des réseaux.  
@@ -62,7 +63,7 @@ Les étudiants apprennent à concevoir, développer et maintenir des application
 - Culture générale et expression  
 - Anglais technique  
 - Mathématiques appliquées à l’informatique  
-- Économie, management et droit  
+- Culture économique, juridique et management abrégé en CEJM  
 
 ### Matières professionnelles :
 - Analyse économique, managériale et juridique des services informatiques  
