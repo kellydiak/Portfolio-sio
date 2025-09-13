@@ -83,7 +83,7 @@ MENUITEMS = (
         "Accédez aux projets et TP réalisés pendant ma formation et à mes projets personnels.", "success"
      ),
 
-    ("Veille techno.", "/ma-veille", "globe2",
+    ("Veille techno", "/ma-veille", "globe2",
         (
         ("Ma veille technologique", "/ma-veille"),
         ("Archive des articles", "/archives"),

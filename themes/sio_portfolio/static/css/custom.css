@@ -130,6 +130,23 @@ Couleur des éléments de navigations :
     background-color: rgba(255, 255, 255, 1);
 }
 
+/*
+Paramètres pour la bannière :
+------------------------------
+*/
+
+.Banner {
+    background: url('../img/lockerbanner.jpg') ;
+    background-size: cover;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.Banner h1 {
+    font-family: "Michroma", sans-serif;
+    font-size: 40px;
+}
+
 
 /*
 .maClassBg {
