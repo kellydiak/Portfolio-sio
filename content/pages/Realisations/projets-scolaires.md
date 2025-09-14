@@ -1,8 +1,8 @@
 Title: Projets scolaires
 
+# Affaire à suivre ..
 
-Voici quelques projets réalisés durant mes deux années :
+<img src="../../images/Eyes_Emoji.png" title = "Yeux" alt="Emoji yeux Apple">
 
-- xoxo
-- API REST de gestion de séries avec Spring Boot
-- Portfolio personnel avec Pelican
+
+

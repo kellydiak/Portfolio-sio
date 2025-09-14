@@ -138,7 +138,6 @@ Paramètres pour la bannière :
 .Banner {
     background: url('../img/lockerbanner.jpg') ;
     background-size: cover;
-    height: 200px;
     margin-bottom: 20px;
 }
 

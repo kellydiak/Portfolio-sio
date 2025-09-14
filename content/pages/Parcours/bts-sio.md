@@ -1,35 +1,38 @@
 Title: BTS SIO
 
-# 🎓 BTS SIO – Services Informatiques aux Organisations
+# 📓 BTS SIO – Services Informatiques aux Organisations
 
 Le **BTS SIO** est un diplôme national de niveau **BAC +2** orienté vers les métiers de l’informatique.  
 Il forme des techniciens polyvalents capables <u>d’installer</u>, de <u>configurer</u>, de <u>maintenir des infrastructures informatiques</u> ou de <u>développer des applications</u> répondant aux besoins des organisations.
 
 ---
 
-## 📌 Présentation générale
+## 📄 Présentation générale :
 - **Durée** : 2 ans  
 - **Niveau d’accès** : après un baccalauréat (général, technologique STI2D, STMG, pro SN, etc.)  
-- **Statut** : formation initiale ou alternance  
-- **Diplôme** : BTS (Brevet de Technicien Supérieur), diplôme d’État  
+- **Statut** : formation <u>initiale</u> ou <u>alternance</u>  
+- **Crédits ECTS** : 120 crédits à la fin du cursus 
 
 ---
 
-## 🔀 Les deux options du BTS SIO
-Les options permettent de nous spécialiser d'avantage sur ce qu'on aime. Au premier semestre tout le monde a autant d'heures en **SISR** qu'en **SLAM**.
+## 💻 Les deux options du BTS SIO :
+Au premier semestre tout le monde a autant d'heures en **SISR** qu'en **SLAM**.
+Les options permettent de nous spécialiser d'avantage sur ce qu'on aime. 
 
 ### 1. Option **SISR** (Solutions d’Infrastructure, Systèmes et Réseaux)
-Cette option forme à la gestion des systèmes informatiques et des réseaux.  
-Les étudiants apprennent à mettre en place, administrer et sécuriser des infrastructures.
+Cette option forme à **la gestion des systèmes informatiques et des réseaux**.  
+Les étudiants apprennent à <u>mettre en place</u>, <u>administrer</u> et <u>sécuriser des infrastructures</u>.
 
-**Compétences développées :**
+**<u>Compétences développées</u> :**
+
 - Installation et configuration de serveurs (Linux, Windows Server)  
 - Gestion des réseaux (routage, VLAN, DHCP, DNS, etc.)  
 - Sécurité des infrastructures (pare-feu, VPN, sauvegardes, supervision)  
 - Virtualisation et cloud (VMware, Hyper-V, conteneurs)  
 - Support et assistance technique  
 
-**Débouchés métiers :**
+**<u>Débouchés métiers :</u>**
+
 - Technicien systèmes et réseaux  
 - Administrateur systèmes junior  
 - Technicien support / helpdesk  
@@ -39,17 +42,19 @@ Les étudiants apprennent à mettre en place, administrer et sécuriser des infr
 
 ### 2. Option **SLAM** (Solutions Logicielles et Applications Métiers)
 Cette option est orientée vers le **développement logiciel et web**.  
-Les étudiants apprennent à concevoir, développer et maintenir des applications.
+Les étudiants apprennent à <u>concevoir</u>, <u>développer</u> et <u>maintenir des applications</u>.
 
-**Compétences développées :**
-- Programmation (Java, C#, Python, PHP, Kotlin…)  
-- Développement web (HTML, CSS, JavaScript, frameworks)  
+**<u>Compétences développées :</u>**
+
+- Programmation (Java, C#, **Python**, **PHP**, **Kotlin**…)  
+- Développement web (HTML, CSS, JavaScript, frameworks (Bootstrap, Angular ..))  
 - Développement d’applications mobiles  
 - Gestion de bases de données (SQL, MySQL, PostgreSQL, Oracle)  
 - Méthodes de gestion de projets (cycle en V, Agile)  
 - Documentation technique et travail en équipe  
 
-**Débouchés métiers :**
+**<u>Débouchés métiers :</u>**
+
 - Développeur d’applications (web, mobile, logiciel)  
 - Analyste programmeur  
 - Intégrateur d’applications  
@@ -57,7 +62,7 @@ Les étudiants apprennent à concevoir, développer et maintenir des application
 
 ---
 
-## 📚 Organisation de la formation
+## 📁 Organisation de la formation :
 
 ### Matières générales (tronc commun) :
 - Culture générale et expression  
@@ -76,7 +81,7 @@ Les étudiants apprennent à concevoir, développer et maintenir des application
 
 ---
 
-## 🚀 Poursuites d’études
+## 💡 Poursuites d’études :
 
 Après un BTS SIO, plusieurs choix sont possibles :  
 
@@ -94,7 +99,7 @@ Après un BTS SIO, plusieurs choix sont possibles :
 
 ---
 
-## 💼 Insertion professionnelle
+## 💼 Insertion professionnelle :
 
 Le BTS SIO permet également une **insertion directe sur le marché du travail** :  
 - En **SISR** : technicien réseaux, administrateur systèmes junior, assistant cybersécurité  
@@ -104,8 +109,12 @@ Ce diplôme est reconnu et recherché par les entreprises (PME, SSII/ESN, collec
 
 ---
 
-## ✅ Points forts du BTS SIO
+## 💞 Points forts du BTS SIO :
 - Formation **polyvalente et professionnalisante**  
 - Très bon taux d’insertion professionnelle  
 - Adaptée aussi bien à la poursuite d’études qu’à l’entrée rapide dans le monde du travail  
-- Deux options permettant une spécialisation claire (réseaux/systèmes ou développement)  
+- Deux options permettant une spécialisation claire (réseaux/systèmes ou développement)
+- Secteur qui évolue vite
+- Création de nouveaux métiers
+- Grande communauté active dans le monde
+- Flexibilité dans son travail (distanciel et/ou présentiel)

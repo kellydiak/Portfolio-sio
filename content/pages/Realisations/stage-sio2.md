@@ -6,7 +6,9 @@ Title: Stage SIO2
 
  - **Date début :** 05/01/2026
  - **Date fin :** 13/02/2026
-
+---
 ## Affaire à suivre ... 
+
+![Emoji yeux Apple](../../images/Eyes_Emoji.png)
 
 
